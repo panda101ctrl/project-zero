@@ -1,3 +1,3 @@
 # project-zero
-this is my first git repository </br>
-auther - harshit pandey 
+This is my first git repository </br>
+Auther - Harshit Pandey 
